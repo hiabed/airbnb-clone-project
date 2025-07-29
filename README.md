@@ -53,10 +53,10 @@ Planned Components
 - Navbar:
 
 Logo
-Search bar
-User navigation
-Responsive menu
-Property Card
+Search bar.
+User navigation.
+Responsive menu.
+Property Card.
 
 - Property image:
 
